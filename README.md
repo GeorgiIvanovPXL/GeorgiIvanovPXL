@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georgi Ivanov
 - 👀 I’m interested in web design/development and mobile apps!
-- 🌱 I’m currently learning React Native.
+- 🌱 React Native/Next.js
 - 📫 How to reach me georgi_ivanov99@outlook.com
 
 <!---
